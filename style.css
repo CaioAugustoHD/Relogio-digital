@@ -18,30 +18,33 @@ section{
 }
 
 #relogio{
-    border-radius: 15px;
+    border-radius: 10px;
     padding: 5px;
     display: flex;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
 }
 
 #relogio div{
     background-color: #160F29;
-    border-radius: 15px;
-    width: 200px;
+    border-radius: 10px;
+    width: 190px;
+    height: 180px;
     margin: 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 #relogio div span:last-child{
     text-align: center;
-    display: block;
     font-size: 0.9em;
     color: white;
     padding: 5px;
+    letter-spacing: 1.5px;
 }
 
 span.valor{
     font-size: 4.5em;
-    display: block;
     text-align: center;
     color: white;
 }
