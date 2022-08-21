@@ -38,7 +38,7 @@ A principal funcionalidade do projeto é:
 
 
 ## Imagens
-
+<img src="img/imagemrelogio.png" alt="captura de tela do projeto em execução">
 
 
 ## Como usar
