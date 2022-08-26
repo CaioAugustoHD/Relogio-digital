@@ -12,7 +12,7 @@
 <a href="#imagens">Imagens</a> |
 <a href="#como-usar">Como usar</a> |
 <a href="#pré-requisitos">Pré-requisitos</a> |
-<a href="links">Links</a> |
+<a href="#links">Links</a> |
 <a href="#autor">Autor</a></p>
 
 
