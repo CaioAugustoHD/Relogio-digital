@@ -1,4 +1,4 @@
-<h1 align="center">RELÓGIO DIGITAL</h1>
+<h1 align="center">Relógio digital</h1>
 <p align="center">Projeto pessoal que se trata de um relógio digital usando apenas HTML, CSS e JavaScript</p>
 
 ---
@@ -50,7 +50,7 @@ Para o relógio funcionar, basta apenas o uso de um navegor de sua preferência.
 
 
 ## Links
-* Acessar o relógio: https://o-relogio-digital.netlify.app/
+* Deploy: https://o-relogio-digital.netlify.app/
 * Repositório: https://github.com/CaioAugustoHD/Relogio-digital
 
 
